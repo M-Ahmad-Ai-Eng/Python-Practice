@@ -1,15 +1,85 @@
 # السَّلَامُ عَلَيْكُمْ
-## I am Ahmad
 
-**Let's offer you some of the resources to learn the Python very well and effeciently with in <span style="color:red;">**20 Days**</span> if you are Consistently work on the daily bases.**
+## Hi — I’m Ahmad
+
+**Learn Python clearly and efficiently in**20 Days**if you work consistently every day.**
+
+A compact, practical path to build strong Python fundamentals with hands-on exercises and daily practice.
+
+
+
+## About
+
+This repository contains daily Python practice exercises and small projects designed to help you progress from beginner to confident Python developer in 20 focused days. Each day contains short, practical exercises and example code you can run and adapt.
+
+
+
+## ✨ Highlights
+
+- Structured, day-by-day learning path
+- Short exercises you can finish in one session
+- Ready-to-run examples and notes
+- Clear progression from basics to intermediate topics
+
+
+
 
 ## Get Started
 
-1. Clone the Repo.
-2. Go inside the Python-Practice folder and open cmd or terminal and type ```code .``` #They open the code files inside your Code editor.
-3. Run the ```uv sync``` If you have the uv install in your machine if not open the **day_43** folder and read the whole instruction how to set up the uv in your machine.
-4. And here you Ready to GO!
+Prerequisites:
+- Git
+- Python 3.8+ (3.10+ recommended)
+- (Optional) VS Code or your preferred editor
 
-### What is in the *Repo*?
+Quick setup:
+```bash
+# clone the repo
+git clone https://github.com/M-Ahmad-Ai-Eng/Python-Practice.git
+cd Python-Practice
 
-- You get the most of the Python topcis in ready like you clone the repo and then you see the files to code and learn as same as you code we learn at same.
+# create a virtual environment (recommended)
+python -m venv .venv
+# macOS / Linux
+source .venv/bin/activate
+# Windows (PowerShell)
+.venv\Scripts\Activate.ps1
+
+# install dependencies if any
+pip install -r requirements.txt || echo "No requirements file found"
+```
+
+If you use the `uv` tool:
+```bash
+# sync using uv (if you have it)
+uv sync
+```
+If `uv` isn't installed, open the `day_43` folder and follow the setup instructions there.
+
+
+
+## Quick run example
+
+To run a sample exercise (adjust the path to the relevant day file):
+```bash
+python day_01/example.py
+```
+Each day folder includes a README or example file showing how to run the code.
+
+
+
+
+## 📂 Repository structure
+
+- day_01/ ... day_43/ — daily exercises and small projects
+
+
+
+
+## ✍️ Contributing
+
+Contributions are welcome! Please:
+- Open an issue for suggestions or bugs
+- Keep changes small & focused so others can review easily
+
+
+
