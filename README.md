@@ -1,5 +1,4 @@
-# السَّلَامُ عَلَيْكُمْ
-
+# السَّلَامُ عَلَيْكُم
 ## Hi — I’m Ahmad
 
 **Learn Python clearly and efficiently in**20 Days**if you work consistently every day.**
@@ -80,6 +79,7 @@ Each day folder includes a README or example file showing how to run the code.
 Contributions are welcome! Please:
 - Open an issue for suggestions or bugs
 - Keep changes small & focused so others can review easily
+
 
 
 
