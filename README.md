@@ -1,3 +1,4 @@
+
 # السَّلَامُ عَلَيْكُم
 
 ## Hi — I’m Ahmad
@@ -73,4 +74,3 @@ Each day folder includes a README or example file showing how to run the code.
 Contributions are welcome! Please:
 
 - Open an issue for suggestions or bugs
-- Keep changes small & focused so others can review easily
